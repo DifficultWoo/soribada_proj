@@ -1,4 +1,4 @@
-package com.example.soribada_renewal_pro.vo;
+package com.example.soribada_renewal_pro.vo.Genre;
 
 import com.example.soribada_renewal_pro.entity.GenreInfoEntity;
 

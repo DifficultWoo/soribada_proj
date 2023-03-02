@@ -23,7 +23,7 @@ public class EntCompanyInfoEntity {
     private Long seq;
 
     @Column(name = "eci_name")
-    private Long name;
+    private String name;
 
 
 }

@@ -11,6 +11,10 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+// @Data = @Getter, @Setter, @ToString, @EqualsAndHashCode @RequiredArgsContructor
+// @AllArgsConstructor = 이 필드에 쓴 모든 생성자만 만들어줌
+// @NoArgsConstructor = 기본생성자 생성
+// @Builder = 선택적으로 필요한 값만 선언가능 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
